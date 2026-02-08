@@ -7,6 +7,11 @@ Tecnical Architecture:
 * [https://drive.google.com/file/d/1YIQq7Gnbdflvfa8odFY1x0g0DW0mG4Fo/view](https://drive.google.com/file/d/1YIQq7Gnbdflvfa8odFY1x0g0DW0mG4Fo/view)
 
 
+<img width="940" height="740" alt="Whatsapp Bot Meta Business API Architecture drawio" src="https://github.com/user-attachments/assets/fda57b5b-7c65-4871-a724-47d8272da8d9" />
+
+<br><br><br>
+<img width="1011" height="671" alt="Backend Codebase Architecture drawio" src="https://github.com/user-attachments/assets/faf54b1e-ca72-43e2-aecc-70326611769c" />
+
 ## 🛠️ Tech Stack
 
 * Node.js
