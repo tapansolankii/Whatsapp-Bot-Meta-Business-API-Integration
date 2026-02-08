@@ -27,9 +27,6 @@ Verify Token:
 Same as VERIFY_TOKEN in .env
 ```
 
-Subscribe Fields:
 
-* messages
-* mess
 References:-
 * [https://developers.facebook.com/documentation/business-messaging/whatsapp/overview]([https://drive.google.com/file/d/1YIQq7Gnbdflvfa8odFY1x0g0DW0mG4Fo/view](https://developers.facebook.com/documentation/business-messaging/whatsapp/overview))
