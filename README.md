@@ -36,3 +36,11 @@ Same as VERIFY_TOKEN in .env
 References:-
 * [https://developers.facebook.com/documentation/business-messaging/whatsapp/overview](https://developers.facebook.com/documentation/business-messaging/whatsapp/overview)
 * [https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started](https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started)
+
+Output look: -
+## 📄 Technical Documentation
+
+You can view the system architecture here:
+
+[PDF](RagandFlowoutput.pdf)
+
